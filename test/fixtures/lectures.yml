@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  book_id: 1
+  group_id: 1
+  teacher_id: 1
+  subject_id: 1
+  starts: 2013-02-21 22:57:21
+  ends: 2013-02-21 22:57:21
+
+two:
+  book_id: 1
+  group_id: 1
+  teacher_id: 1
+  subject_id: 1
+  starts: 2013-02-21 22:57:21
+  ends: 2013-02-21 22:57:21
